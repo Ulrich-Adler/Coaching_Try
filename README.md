@@ -1,8 +1,5 @@
-# Coaching - mein Angebot
-Beratung - Untersützung EMDR
+# Author
+U. Weber
 
-# ueber EMDR
-EMDR bedetuet ....
-
-# meine Erfahrung
-asdasd
+# Datum
+15.08.2020 
